@@ -60,13 +60,13 @@ h3 {
 }
 
 .outro {
-  width: 40%;
+  width: 30%;
   margin: auto;
   font-size: 13px;
 }
 
 .outro1 {
-  width: 60%;
+  width: 40%;
   margin: auto;
   padding-bottom: 30px;
   padding-top: 20px;
@@ -139,7 +139,9 @@ h3 {
   width: 13%;
   border-color: lightgrey;
   margin: 50px auto 50px auto;
+  clear: both;
 }
+
 
 .btnn {
   background: #11999E;
